@@ -1,8 +1,4 @@
-# 🎥 Demo Video
-Watch the demo video of the VFS Global login automation here:  
-👉 https://drive.google.com/file/d/150RPyt7ouQQ6V1TCm6qV47pfEmRk7SuZ/view?usp=sharing
 
----
 
 # VFS Global Login Automation — Selenium
 
